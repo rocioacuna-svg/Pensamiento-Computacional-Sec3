@@ -8,3 +8,4 @@ Ejercicios y entregas curso pensamiento computacional
 - no me salio hacer el moño de corbata
   
 ![imagen](https://images.emojiterra.com/google/android-pie/512px/1f615.png)
+![imgen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion1.webp?raw=true)
