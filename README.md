@@ -40,6 +40,9 @@ Este proceso fue desafiante, pero me ayudó a entender mejor cómo traducir una 
 **lo que mas me costo**
 Una de las principales dificultades que tuve fue entender cómo mover un triángulo dentro del espacio de P5.js. Al principio, no lograba comprender por qué al modificar solo una parte de la figura, esta se deformaba completamente. Luego entendí que cada esquina del triángulo está definida por un par de coordenadas (X, Y), por lo que era necesario modificar todas sus coordenadas de manera proporcional para mover la figura sin alterar su forma e ir moviendo toto en simultáneo.
 
+Otra figura que me costo demasiado entender era esa curva que se unia con el medio circulo naranjo.
+![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/lo%20mas%20dificil.png?raw=true)
+
 También me costó bastante entender el funcionamiento de la línea, ya que no tenía claro cómo se definían sus puntos en el plano. Por esto, decidí crear una especie de guía dentro del código, agregando comentarios para recordarme cómo funcionaban las coordenadas y así evitar errores en el proceso.
 ![imagen](
 
