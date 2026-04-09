@@ -38,5 +38,11 @@ Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente 
 
 Este proceso fue desafiante, pero me ayudó a entender mejor cómo traducir una imagen a coordenadas y la importancia de las proporciones y referencias visuales al trabajar de forma digital.
 **lo que mas me costo**
+Una de las principales dificultades que tuve fue entender cómo mover un triángulo dentro del espacio de P5.js. Al principio, no lograba comprender por qué al modificar solo una parte de la figura, esta se deformaba completamente. Luego entendí que cada esquina del triángulo está definida por un par de coordenadas (X, Y), por lo que era necesario modificar todas sus coordenadas de manera proporcional para mover la figura sin alterar su forma e ir moviendo toto en simultáneo.
 
+También me costó bastante entender el funcionamiento de la línea, ya que no tenía claro cómo se definían sus puntos en el plano. Por esto, decidí crear una especie de guía dentro del código, agregando comentarios para recordarme cómo funcionaban las coordenadas y así evitar errores en el proceso.
+![imagen](
 
+Además, tuve dificultades al trabajar con círculos, especialmente porque en mi caso debía representar cuartos de círculo, tanto en el lado derecho como en el izquierdo inferior. Me costó entender desde qué punto comenzaban y hasta dónde se dibujaban, ya que no se trataba de un círculo completo. Con el tiempo, comprendí que debía pensar en estos como partes de una figura mayor y fijarme bien en sus límites y posiciones dentro del plano para que encajaran correctamente con el resto de la composición.
+
+Estas dificultades fueron importantes en mi aprendizaje, ya que me obligaron a comprender mejor cómo funcionan las figuras y sus posiciones en un espacio de coordenadas, lo que me permitió avanzar de forma más precisa en mi trabajo.
