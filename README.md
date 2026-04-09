@@ -44,6 +44,7 @@ Una de las principales dificultades que tuve fue entender cómo mover un triáng
 
 Otra figura que me costo demasiado entender era esa curva que se unia con el medio circulo naranjo.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/lo%20mas%20dificil.png?raw=true)
+
 **Comentario de ayuda**
 
 También me costó bastante entender el funcionamiento de la línea, ya que no tenía claro cómo se definían sus puntos en el plano. Por esto, decidí crear una especie de guía dentro del código, agregando comentarios para recordarme cómo funcionaban las coordenadas y así evitar errores en el proceso.
