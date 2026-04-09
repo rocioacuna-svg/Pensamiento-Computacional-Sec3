@@ -7,6 +7,7 @@ Ejercicios y entregas curso pensamiento computacional
 - aprendi a mover algunas figuras en coordenandas
 - no me salio hacer el moño de corbata
   ![imagen](https://images.emojiterra.com/google/android-pie/512px/1f615.png)
+  ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/caraconfundida.png?raw=true)
   
   
 # Solemne 01
