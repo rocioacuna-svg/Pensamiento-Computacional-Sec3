@@ -7,7 +7,7 @@ Ejercicios y entregas curso pensamiento computacional
 - aprendi a mover algunas figuras en coordenandas
 - no me salio hacer el moño de corbata
   ![imagen](https://images.emojiterra.com/google/android-pie/512px/1f615.png)
-  ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/caraconfundida.png?raw=true)
+  ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/caraconfundida.png?raw=true)
   
   
 # Solemne 01
@@ -37,7 +37,6 @@ También intenté trabajar en Illustrator, donde pude recrear las figuras, pero 
 Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente las reglas y guías como referencia visual. A través de la medición y la observación constante, fui determinando las posiciones y tamaños de cada figura, lo que me permitió construir el dibujo en P5.js de manera más precisa, aunque mediante un proceso más experimental.
 
 Este proceso fue desafiante, pero me ayudó a entender mejor cómo traducir una imagen a coordenadas y la importancia de las proporciones y referencias visuales al trabajar de forma digital.
-
 **Lo que mas me costo**
 
 Una de las principales dificultades que tuve fue entender cómo mover un triángulo dentro del espacio de P5.js. Al principio, no lograba comprender por qué al modificar solo una parte de la figura, esta se deformaba completamente. Luego entendí que cada esquina del triángulo está definida por un par de coordenadas (X, Y), por lo que era necesario modificar todas sus coordenadas de manera proporcional para mover la figura sin alterar su forma e ir moviendo toto en simultáneo.
@@ -51,6 +50,7 @@ También me costó bastante entender el funcionamiento de la línea, ya que no t
 
 Además, tuve dificultades al trabajar con círculos, especialmente porque en mi caso debía representar cuartos de círculo, tanto en el lado derecho como en el izquierdo inferior. Me costó entender desde qué punto comenzaban y hasta dónde se dibujaban, ya que no se trataba de un círculo completo. Con el tiempo, comprendí que debía pensar en estos como partes de una figura mayor y fijarme bien en sus límites y posiciones dentro del plano para que encajaran correctamente con el resto de la composición.
 **Orden de mis codigos**
+
 Para organizar mejor mi trabajo, decidí estructurar el código de manera ordenada y repetitiva. Primero escribía el nombre de la figura que iba a crear, luego definía el color con fill, después el trazo (stroke) en caso de que tuviera, junto con su color, y finalmente el código de la figura con sus respectivas coordenadas. En algunos casos, también agregaba coordenadas de referencia como comentarios encima del código para guiarme.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/orden.png?raw=true)
 Seguí este mismo orden en todo el desarrollo del proyecto, lo que me permitió trabajar de forma más clara y evitar confusiones. Esta organización fue clave para entender mejor cada elemento del dibujo y mantener un control sobre las formas, colores y posiciones dentro de la composición.
