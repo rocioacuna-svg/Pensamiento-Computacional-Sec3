@@ -29,3 +29,10 @@ Debido a esto, solo pude obtener una coordenada inicia de la punta de una de las
 Más adelante, me di cuenta de que podía utilizar las guías y reglas en Photoshop. Esto me ayudó mucho, ya que comencé a comparar constantemente entre Photoshop y P5.js, observando desde dónde hasta dónde llegaban las formas, si se alineaban correctamente o si alguna parte se pasaba de su límite. Este proceso fue más manual, pero me permitió avanzar significativamente y lograr una mejor aproximación.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Captura%20de%20pantalla%20(22).png?raw=true)
 
+También intenté trabajar en Illustrator, donde pude recrear las figuras, pero nuevamente tuve dificultades al momento de trasladar las coordenadas a P5.js. Cuando intentaba usar los valores que me entregaba el programa, el resultado en P5.js no coincidía con la imagen original: las figuras se deformaban o no se veían como esperaba. Esto me hizo darme cuenta de que no estaba comprendiendo bien cómo funcionan los sistemas de coordenadas entre estos programas.
+![imagen](
+
+Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente las reglas y guías como referencia visual. A través de la medición y la observación constante, fui determinando las posiciones y tamaños de cada figura, lo que me permitió construir el dibujo en P5.js de manera más precisa, aunque mediante un proceso más experimental.
+
+Este proceso fue desafiante, pero me ayudó a entender mejor cómo traducir una imagen a coordenadas y la importancia de las proporciones y referencias visuales al trabajar de forma digital.
+
