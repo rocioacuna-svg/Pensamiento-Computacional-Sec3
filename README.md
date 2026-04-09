@@ -37,6 +37,7 @@ También intenté trabajar en Illustrator, donde pude recrear las figuras, pero 
 Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente las reglas y guías como referencia visual. A través de la medición y la observación constante, fui determinando las posiciones y tamaños de cada figura, lo que me permitió construir el dibujo en P5.js de manera más precisa, aunque mediante un proceso más experimental.
 
 Este proceso fue desafiante, pero me ayudó a entender mejor cómo traducir una imagen a coordenadas y la importancia de las proporciones y referencias visuales al trabajar de forma digital.
+
 **Lo que mas me costo**
 
 Una de las principales dificultades que tuve fue entender cómo mover un triángulo dentro del espacio de P5.js. Al principio, no lograba comprender por qué al modificar solo una parte de la figura, esta se deformaba completamente. Luego entendí que cada esquina del triángulo está definida por un par de coordenadas (X, Y), por lo que era necesario modificar todas sus coordenadas de manera proporcional para mover la figura sin alterar su forma e ir moviendo toto en simultáneo.
