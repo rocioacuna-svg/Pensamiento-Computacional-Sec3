@@ -73,8 +73,6 @@ Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos
 https://p5js.org/reference/p5/frameCount/
 gira x fotograma como velocidad (la relantiza)
 # Mi obra
-![Preview](https://p5js.org/reference/p5/frameCount/)
-
 **lick de mi obra en p5.js.**
 https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
 
@@ -113,4 +111,5 @@ https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
 
 
 
-fin
+
+
