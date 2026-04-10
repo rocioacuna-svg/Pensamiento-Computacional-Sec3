@@ -33,7 +33,7 @@ Más adelante, me di cuenta de que podía utilizar las guías y reglas en Photos
 
 **2do Intento, ilustrator**
 También intenté trabajar en Illustrator, donde pude recrear las figuras, pero nuevamente tuve dificultades al momento de trasladar las coordenadas a P5.js. Cuando intentaba usar los valores que me entregaba el programa, el resultado en P5.js no coincidía con la imagen original: las figuras se deformaban o no se veían como esperaba. Esto me hizo darme cuenta de que no estaba comprendiendo bien cómo funcionan los sistemas de coordenadas entre estos programas.
-![imagen]()
+![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Proceso_3.png?raw=true)
 
 Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente las reglas y guías como referencia visual. A través de la medición y la observación constante, fui determinando las posiciones y tamaños de cada figura, lo que me permitió construir el dibujo en P5.js de manera más precisa, aunque mediante un proceso más experimental.
 
