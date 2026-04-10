@@ -76,12 +76,14 @@ Finalmente agregue unos elipces en movimiento para el fondo ya que la obra origi
 
 **Referencias**
 
-[link](https://editor.p5js.org/p5/sketches/Form:_Star)
+-[link](https://editor.p5js.org/p5/sketches/Form:_Star)
 referencia de translate y rotate
-[link](https://p5js.org/es/reference/p5/push)
+
+-[link](https://p5js.org/es/reference/p5/push)
 referencia push y pop
-Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop() 
-[link](https://p5js.org/reference/p5/frameCount/)
+Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop()}
+
+-[link](https://p5js.org/reference/p5/frameCount/)
 gira x fotograma como velocidad (la relantiza)
 
 # Mi obra
