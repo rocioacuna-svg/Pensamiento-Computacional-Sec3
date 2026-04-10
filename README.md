@@ -23,6 +23,7 @@ Estas eran mis otras opciones👇🏻
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion3.jpg?raw=true)
 
 **Problemas con Photoshop**
+
 Comencé poniendo la foto en Photoshop y redimensionándola para que encajara en el sketch de p5.js ya que era demasiado grande, luego le añadí una cuadrícula y fui dibujando figuras sobre la imagen original para identificar sus formas y coordenadas. Sin embargo, no logré utilizar correctamente el programa, ya que no supe cómo obtener con precisión las coordenadas de las figuras que iba creando. Tampoco entendí bien cómo trasladar esas formas de manera exacta a P5.js.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Proceso_1.png?raw=true)
 
@@ -32,6 +33,7 @@ Más adelante, me di cuenta de que podía utilizar las guías y reglas en Photos
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Proceso_2.png?raw=true)
 
 **2do Intento, ilustrator**
+
 También intenté trabajar en Illustrator, donde pude recrear las figuras, pero nuevamente tuve dificultades al momento de trasladar las coordenadas a P5.js. Cuando intentaba usar los valores que me entregaba el programa, el resultado en P5.js no coincidía con la imagen original: las figuras se deformaban o no se veían como esperaba. Esto me hizo darme cuenta de que no estaba comprendiendo bien cómo funcionan los sistemas de coordenadas entre estos programas.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Proceso_3.png?raw=true)
 
@@ -59,6 +61,7 @@ Para organizar mejor mi trabajo, decidí estructurar el código de manera ordena
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/orden.png?raw=true)
 
 **Mecanizacion de trabajo**
+
 Seguí este mismo orden en todo el desarrollo del proyecto, lo que me permitió trabajar de forma más clara y evitar confusiones. Esta organización fue clave para entender mejor cada elemento del dibujo y mantener un control sobre las formas, colores y posiciones dentro de la composición.
 
 Además, este método me ayudó a que, cuando notaba que algo no estaba en el lugar correcto, podia volver fácilmente a la figura correspondiente solo viendo su nombre. De esta forma, podía identificar rápidamente qué parte del código debía modificar y ajustar su posición o características sin confundirme, ya que tenía claro qué representaba cada sección del código.
@@ -66,9 +69,11 @@ Además, este método me ayudó a que, cuando notaba que algo no estaba en el lu
 Estas dificultades fueron importantes en mi aprendizaje, ya que me obligaron a comprender mejor cómo funcionan las figuras y sus posiciones en un espacio de coordenadas y a ver muchos videos y ver muchos referentes, lo que me permitió avanzar de forma más rapida en mi trabajo.
 
 **Finalización**
+
 Finalmente agregue unos elipces en movimiento para el fondo ya que la obra original tiene varios tonos de verdes y eso la hace ver mas ineresante y estas referecias las encontre con una compañpera aqui👇🏻
 
 **Referencias**
+
 [link](https://editor.p5js.org/p5/sketches/Form:_Star)
 referencia de translate y rotate
 [link](https://p5js.org/es/reference/p5/push)
