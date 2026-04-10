@@ -75,6 +75,7 @@ gira x fotograma como velocidad (la relantiza)
 # Mi obra
 **lick de mi obra en p5.js.**
 https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
+
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/rociodinsky.png?raw=true)
 
 
