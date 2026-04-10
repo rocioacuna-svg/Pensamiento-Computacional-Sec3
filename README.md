@@ -17,7 +17,7 @@ Elegí esta obra por su composición abstracta y el uso llamativo de colores. Me
 A medida que fui recreando la imagen, me di cuenta de que algunas figuras no eran simples, sino que estaban compuestas por varias formas más pequeñas. Esto me generó dificultades al momento de construirlas en P5.js, ya que debía analizar con mayor detalle sus proporciones y posiciones. Sin embargo, este proceso me ayudó a comprender mejor la estructura de la obra y a valorar su complejidad, entendiendo que su apariencia simple en realidad es resultado de una composición muy bien pensada, lo que la convierte en una imagen visualmente atractiva y proporcional. (me encanto)
 
 ![imgen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion1.webp?raw=true)
-Estas eran mis otras opciones👇🏻
+**Estas eran mis otras opciones👇🏻**
 
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion2.webp?raw=true)
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion3.jpg?raw=true)
@@ -37,6 +37,7 @@ Más adelante, me di cuenta de que podía utilizar las guías y reglas en Photos
 También intenté trabajar en Illustrator, donde pude recrear las figuras, pero nuevamente tuve dificultades al momento de trasladar las coordenadas a P5.js. Cuando intentaba usar los valores que me entregaba el programa, el resultado en P5.js no coincidía con la imagen original: las figuras se deformaban o no se veían como esperaba. Esto me hizo darme cuenta de que no estaba comprendiendo bien cómo funcionan los sistemas de coordenadas entre estos programas.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Proceso_3.png?raw=true)
 
+**3ro Intento**
 Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente las reglas y guías como referencia visual. A través de la medición y la observación constante, fui determinando las posiciones y tamaños de cada figura, lo que me permitió construir el dibujo en P5.js de manera más precisa, aunque mediante un proceso más experimental.
 
 Este proceso fue desafiante, pero me ayudó a entender mejor cómo traducir una imagen a coordenadas y la importancia de las proporciones y referencias visuales al trabajar de forma digital.
