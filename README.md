@@ -31,7 +31,7 @@ Debido a esto, solo pude obtener una coordenada inicia de la punta de una de las
 Más adelante, me di cuenta de que podía utilizar las guías y reglas en Photoshop. Esto me ayudó mucho, ya que comencé a comparar constantemente entre Photoshop y P5.js, observando desde dónde hasta dónde llegaban las formas, si se alineaban correctamente o si alguna parte se pasaba de su límite. Este proceso fue más manual, pero me permitió avanzar significativamente y lograr una mejor aproximación.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Captura%20de%20pantalla%20(22).png?raw=true)
 
-**Intento con ilustrator**
+**2do Intento, ilustrator**
 También intenté trabajar en Illustrator, donde pude recrear las figuras, pero nuevamente tuve dificultades al momento de trasladar las coordenadas a P5.js. Cuando intentaba usar los valores que me entregaba el programa, el resultado en P5.js no coincidía con la imagen original: las figuras se deformaban o no se veían como esperaba. Esto me hizo darme cuenta de que no estaba comprendiendo bien cómo funcionan los sistemas de coordenadas entre estos programas.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Captura%20de%20pantalla%20(25).png?raw=true)
 
@@ -45,7 +45,7 @@ Una de las principales dificultades que tuve fue entender cómo mover un triáng
 Otra figura que me costo demasiado entender era esa curva que se unia con el medio circulo naranjo.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/lo%20mas%20dificil.png?raw=true)
 
-**Comentario de ayuda**
+**Comentarios para ayudarme**
 
 También me costó bastante entender el funcionamiento de la línea, ya que no tenía claro cómo se definían sus puntos en el plano. Por esto, decidí crear una especie de guía dentro del código, agregando comentarios para recordarme cómo funcionaban las coordenadas y así evitar errores en el proceso.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/guias.png?raw=true)
@@ -56,25 +56,28 @@ Además, tuve dificultades al trabajar con círculos, especialmente porque en mi
 Para organizar mejor mi trabajo, decidí estructurar el código de manera ordenada y repetitiva. Primero escribía el nombre de la figura que iba a crear, luego definía el color con fill, después el trazo (stroke) en caso de que tuviera, junto con su color, y finalmente el código de la figura con sus respectivas coordenadas. En algunos casos, también agregaba coordenadas de referencia como comentarios encima del código para guiarme.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/orden.png?raw=true)
 
-**Mecanizacion**
+**Mecanizacion de trabajo**
 Seguí este mismo orden en todo el desarrollo del proyecto, lo que me permitió trabajar de forma más clara y evitar confusiones. Esta organización fue clave para entender mejor cada elemento del dibujo y mantener un control sobre las formas, colores y posiciones dentro de la composición.
 
 Además, este método me ayudó a que, cuando notaba que algo no estaba en el lugar correcto, podia volver fácilmente a la figura correspondiente solo viendo su nombre. De esta forma, podía identificar rápidamente qué parte del código debía modificar y ajustar su posición o características sin confundirme, ya que tenía claro qué representaba cada sección del código.
 
 Estas dificultades fueron importantes en mi aprendizaje, ya que me obligaron a comprender mejor cómo funcionan las figuras y sus posiciones en un espacio de coordenadas y a ver muchos videos y ver muchos referentes, lo que me permitió avanzar de forma más rapida en mi trabajo.
+
 **Finalización**
 Finalmente agregue unos elipces en movimiento para el fondo ya que la obra original tiene varios tonos de verdes y eso la hace ver mas ineresante y estas referecias las encontre con una compañpera aqui👇🏻
 
-https://editor.p5js.org/p5/sketches/Form:_Star 
+**Referencias**
+[link](https://editor.p5js.org/p5/sketches/Form:_Star)
 referencia de translate y rotate
-https://p5js.org/es/reference/p5/push 
+[link](https://p5js.org/es/reference/p5/push)
 referencia push y pop
 Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop() 
-https://p5js.org/reference/p5/frameCount/
+[link](https://p5js.org/reference/p5/frameCount/)
 gira x fotograma como velocidad (la relantiza)
+
 # Mi obra
 **lick de mi obra en p5.js.**
-https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
+[Visita p5.js](https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B)
 
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/rociodinsky.png?raw=true)
 
