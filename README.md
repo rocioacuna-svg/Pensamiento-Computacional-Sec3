@@ -57,16 +57,19 @@ Además, tuve dificultades al trabajar con círculos, especialmente porque en mi
 Para organizar mejor mi trabajo, decidí estructurar el código de manera ordenada y repetitiva. Primero escribía el nombre de la figura que iba a crear, luego definía el color con fill, después el trazo (stroke) en caso de que tuviera, junto con su color, y finalmente el código de la figura con sus respectivas coordenadas. En algunos casos, también agregaba coordenadas de referencia como comentarios encima del código para guiarme.
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/orden.png?raw=true)
 
+**mecanizacion**
 Seguí este mismo orden en todo el desarrollo del proyecto, lo que me permitió trabajar de forma más clara y evitar confusiones. Esta organización fue clave para entender mejor cada elemento del dibujo y mantener un control sobre las formas, colores y posiciones dentro de la composición.
 
-Además, este método me ayudó a que, cuando notaba que algo no estaba en el lugar correcto, pudiera volver fácilmente a la figura correspondiente solo viendo su nombre. De esta forma, podía identificar rápidamente qué parte del código debía modificar y ajustar su posición o características sin confundirme, ya que tenía claro qué representaba cada sección del código.
+Además, este método me ayudó a que, cuando notaba que algo no estaba en el lugar correcto, podia volver fácilmente a la figura correspondiente solo viendo su nombre. De esta forma, podía identificar rápidamente qué parte del código debía modificar y ajustar su posición o características sin confundirme, ya que tenía claro qué representaba cada sección del código.
 
-Estas dificultades fueron importantes en mi aprendizaje, ya que me obligaron a comprender mejor cómo funcionan las figuras y sus posiciones en un espacio de coordenadas, lo que me permitió avanzar de forma más precisa en mi trabajo.
+Estas dificultades fueron importantes en mi aprendizaje, ya que me obligaron a comprender mejor cómo funcionan las figuras y sus posiciones en un espacio de coordenadas y a ver muchos videos y ver muchos referentes, lo que me permitió avanzar de forma más rapida en mi trabajo.
 
 Finalmente agregue unos elipces en movimiento para el fondo ya que la obra original tiene varios tonos de verdes y eso la hace ver mas ineresante y estas referecias las encontre con una compañpera aqui👇🏻
 
+https://editor.p5js.org/p5/sketches/Form:_Star 
+referencia de translate y rotate
+https://p5js.org/es/reference/p5/push 
+Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop() 
 FrameCo: gira x fotograma ( la relantiza)
-referencia de translate y rotate: https://editor.p5js.org/p5/sketches/Form:_Star 
-https://p5js.org/es/reference/p5/push // Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop() 
 
 https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
