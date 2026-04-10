@@ -51,6 +51,7 @@ También me costó bastante entender el funcionamiento de la línea, ya que no t
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/guias.png?raw=true)
 
 Además, tuve dificultades al trabajar con círculos, especialmente porque en mi caso debía representar cuartos de círculo, tanto en el lado derecho como en el izquierdo inferior. Me costó entender desde qué punto comenzaban y hasta dónde se dibujaban, ya que no se trataba de un círculo completo. Con el tiempo, comprendí que debía pensar en estos como partes de una figura mayor y fijarme bien en sus límites y posiciones dentro del plano para que encajaran correctamente con el resto de la composición.
+
 **Orden de mis codigos**
 
 Para organizar mejor mi trabajo, decidí estructurar el código de manera ordenada y repetitiva. Primero escribía el nombre de la figura que iba a crear, luego definía el color con fill, después el trazo (stroke) en caso de que tuviera, junto con su color, y finalmente el código de la figura con sus respectivas coordenadas. En algunos casos, también agregaba coordenadas de referencia como comentarios encima del código para guiarme.
@@ -63,9 +64,9 @@ Además, este método me ayudó a que, cuando notaba que algo no estaba en el lu
 Estas dificultades fueron importantes en mi aprendizaje, ya que me obligaron a comprender mejor cómo funcionan las figuras y sus posiciones en un espacio de coordenadas, lo que me permitió avanzar de forma más precisa en mi trabajo.
 
 Finalmente agregue unos elipces en movimiento para el fondo ya que la obra original tiene varios tonos de verdes y eso la hace ver mas ineresante y estas referecias las encontre con una compañpera aqui👇🏻
-https://editor.p5js.org/p5/sketches/Form:_Star estrellas 
-Rot: rota la figura
-FrameCo: gira x fotograma divido en 200 ( la relantiza)
+
+FrameCo: gira x fotograma ( la relantiza)
 referencia de translate y rotate: https://editor.p5js.org/p5/sketches/Form:_Star 
 https://p5js.org/es/reference/p5/push // Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop() 
+
 https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
