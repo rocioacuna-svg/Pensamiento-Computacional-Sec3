@@ -77,6 +77,7 @@ referencia push y pop
 Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop() 
 https://p5js.org/reference/p5/frameCount/
 gira x fotograma como velocidad (la relantiza)
-# Mi obra final
-
+# Mi obra
+![imagen](https://p5js.org/reference/p5/frameCount/)
+**lick de mi obra en p5.js.**
 https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
