@@ -12,7 +12,7 @@ Ejercicios y entregas curso pensamiento computacional
   
 # Solemne 01
 ## Hacia arriba, Wassily Kandinsky, (1929)
-Elegí esta obra por su composición abstracta y el uso llamativo de colores. Me llamó la atención cómo las formas geométricas, como círculos y rectángulos, se organizan en el espacio de manera equilibrada, generando una sensación de movimiento y orden al mismo tiempo. Además, el contraste entre los colores permite que cada figura destaque dentro de la composición.
+*Elegí esta obra por su composición abstracta y el uso llamativo de colores. Me llamó la atención cómo las formas geométricas, como círculos y rectángulos, se organizan en el espacio de manera equilibrada, generando una sensación de movimiento y orden al mismo tiempo. Además, el contraste entre los colores permite que cada figura destaque dentro de la composición.*
 
 A medida que fui recreando la imagen, me di cuenta de que algunas figuras no eran simples, sino que estaban compuestas por varias formas más pequeñas. Esto me generó dificultades al momento de construirlas en P5.js, ya que debía analizar con mayor detalle sus proporciones y posiciones. Sin embargo, este proceso me ayudó a comprender mejor la estructura de la obra y a valorar su complejidad, entendiendo que su apariencia simple en realidad es resultado de una composición muy bien pensada, lo que la convierte en una imagen visualmente atractiva y proporcional. (me encanto)
 ![imgen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion1.webp?raw=true)
@@ -58,6 +58,7 @@ Para organizar mejor mi trabajo, decidí estructurar el código de manera ordena
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/orden.png?raw=true)
 
 **mecanizacion**
+
 Seguí este mismo orden en todo el desarrollo del proyecto, lo que me permitió trabajar de forma más clara y evitar confusiones. Esta organización fue clave para entender mejor cada elemento del dibujo y mantener un control sobre las formas, colores y posiciones dentro de la composición.
 
 Además, este método me ayudó a que, cuando notaba que algo no estaba en el lugar correcto, podia volver fácilmente a la figura correspondiente solo viendo su nombre. De esta forma, podía identificar rápidamente qué parte del código debía modificar y ajustar su posición o características sin confundirme, ya que tenía claro qué representaba cada sección del código.
