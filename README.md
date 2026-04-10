@@ -61,3 +61,12 @@ Seguí este mismo orden en todo el desarrollo del proyecto, lo que me permitió 
 Además, este método me ayudó a que, cuando notaba que algo no estaba en el lugar correcto, pudiera volver fácilmente a la figura correspondiente solo viendo su nombre. De esta forma, podía identificar rápidamente qué parte del código debía modificar y ajustar su posición o características sin confundirme, ya que tenía claro qué representaba cada sección del código.
 
 Estas dificultades fueron importantes en mi aprendizaje, ya que me obligaron a comprender mejor cómo funcionan las figuras y sus posiciones en un espacio de coordenadas, lo que me permitió avanzar de forma más precisa en mi trabajo.
+
+https://editor.p5js.org/p5/sketches/Form:_Star estrellas 
+//Rot. : rota la figura
+  // FrameCo. : gira x fotograma divido en 200 ( la relantiza)
+
+  //referencia de translate y rotate: https://editor.p5js.org/p5/sketches/Form:_Star (al principio quería hacer estrellas pero lo modifiqué por circulos y les cambie los parametros para que la traslación y rotación fuese más amplia)
+https://p5js.org/es/reference/p5/push // Se aislan las figuras que están entre estos dos. Todo lo que ocurra entre ellos (traslación o rotación) no afectará a las figuras que se dibujen después de pop() 
+
+https://editor.p5js.org/rocio.acuna/sketches/GboIGre-B
