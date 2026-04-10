@@ -14,12 +14,14 @@ Ejercicios y entregas curso pensamiento computacional
 ## Hacia arriba, Wassily Kandinsky, (1929)
 *Elegí esta obra por su composición abstracta y el uso llamativo de colores. Me llamó la atención cómo las formas geométricas, como círculos y rectángulos, se organizan en el espacio de manera equilibrada, generando una sensación de movimiento y orden al mismo tiempo. Además, el contraste entre los colores permite que cada figura destaque dentro de la composición.*
 
-A medida que fui recreando la imagen, me di cuenta de que algunas figuras no eran simples, sino que estaban compuestas por varias formas más pequeñas. Esto me generó dificultades al momento de construirlas en P5.js, ya que debía analizar con mayor detalle sus proporciones y posiciones. Sin embargo, este proceso me ayudó a comprender mejor la estructura de la obra y a valorar su complejidad, entendiendo que su apariencia simple en realidad es resultado de una composición muy bien pensada, lo que la convierte en una imagen visualmente atractiva y proporcional. (me encanto)
+*A medida que fui recreando la imagen, me di cuenta de que algunas figuras no eran simples, sino que estaban compuestas por varias formas más pequeñas. Esto me generó dificultades al momento de construirlas en P5.js, ya que debía analizar con mayor detalle sus proporciones y posiciones. Sin embargo, este proceso me ayudó a comprender mejor la estructura de la obra y a valorar su complejidad, entendiendo que su apariencia simple en realidad es resultado de una composición muy bien pensada, lo que la convierte en una imagen visualmente atractiva y proporcional.* (me encanto)
+
 ![imgen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion1.webp?raw=true)
 Estas eran mis otras opciones👇🏻
 
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion2.webp?raw=true)
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/opcion3.jpg?raw=true)
+
 **Problemas con Photoshop**
 
 Comencé poniendo la foto en Photoshop y redimensionándola para que encajara en el sketch de p5.js ya que era demasiado grande, luego le añadí una cuadrícula y fui dibujando figuras sobre la imagen original para identificar sus formas y coordenadas. Sin embargo, no logré utilizar correctamente el programa, ya que no supe cómo obtener con precisión las coordenadas de las figuras que iba creando. Tampoco entendí bien cómo trasladar esas formas de manera exacta a P5.js.
