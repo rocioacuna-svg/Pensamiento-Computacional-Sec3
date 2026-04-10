@@ -38,7 +38,8 @@ También intenté trabajar en Illustrator, donde pude recrear las figuras, pero 
 ![imagen](https://github.com/rocioacuna-svg/Pensamiento-Computacional-Sec3/blob/main/IMAGENES/Proceso_3.png?raw=true)
 
 **3ro Intento**
-Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente las reglas y guías como referencia visual. A través de la medición y la observación constante, fui determinando las posiciones y tamaños de cada figura, lo que me permitió construir el dibujo en P5.js de manera más precisa, aunque mediante un proceso más experimental.
+
+Finalmente, opté por seguir trabajando con Photoshop utilizando principalmente las reglas y guías como referencia visual. A través de la medición y la observación constante, fui determinando las posiciones y tamaños de cada figura, lo que me permitió construir el dibujo en P5.js de manera más precisa, aunque mediante un proceso más experimental. ¿La tercera es la vencida?
 
 Este proceso fue desafiante, pero me ayudó a entender mejor cómo traducir una imagen a coordenadas y la importancia de las proporciones y referencias visuales al trabajar de forma digital.
 
